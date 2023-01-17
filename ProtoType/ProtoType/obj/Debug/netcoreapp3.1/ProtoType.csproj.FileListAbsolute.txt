@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\bin\Debug\netcoreapp3.1\ProtoType.exe
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\bin\Debug\netcoreapp3.1\ProtoType.deps.json
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\bin\Debug\netcoreapp3.1\ProtoType.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\bin\Debug\netcoreapp3.1\ProtoType.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\bin\Debug\netcoreapp3.1\ProtoType.dll
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\bin\Debug\netcoreapp3.1\ProtoType.pdb
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.dll
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.pdb
+C:\Users\Lenovo\source\repos\Design Pattern\ProtoType\ProtoType\obj\Debug\netcoreapp3.1\ProtoType.genruntimeconfig.cache
