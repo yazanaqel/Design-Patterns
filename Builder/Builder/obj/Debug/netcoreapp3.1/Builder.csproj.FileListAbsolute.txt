@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Lenovo\source\repos\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
