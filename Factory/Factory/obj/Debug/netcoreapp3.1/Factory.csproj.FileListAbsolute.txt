@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.exe
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.deps.json
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.dll
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.pdb
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.dll
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.pdb
+C:\Users\Lenovo\source\repos\Design Pattern\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.genruntimeconfig.cache
