@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\Lenovo\source\repos\Design Pattern\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache
